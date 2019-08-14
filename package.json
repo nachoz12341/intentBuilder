@@ -1,0 +1,15 @@
+{
+  "name": "intentbuilder",
+  "version": "1.0.0",
+  "description": "Builds .txt of training phrases into dialogflow intent json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Nacho Montes de Oca",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^3.3.2"
+  }
+}

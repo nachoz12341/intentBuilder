@@ -1,0 +1,32 @@
+{
+    "id": "",
+    "name": "",
+    "auto": true,
+    "contexts": [],
+    "responses": [
+        {
+            "resetContexts": false,
+            "affectedContexts": [],
+            "parameters": [],
+            "messages": [
+                {
+                    "type": 0,
+                    "speech": []
+                }
+            ],
+            "defaultResponsePlatforms": {},
+            "speech": []
+        }
+    ],
+    "priority": 500000,
+    "webhookUsed": false,
+    "fallbackIntent": false,
+    "fallbackIntent": false,
+    "events": [],
+    "userSays": [
+    ],
+    "followUpIntents": [],
+    "liveAgentHandoff": false,
+    "endInteraction": false,
+    "templates": []
+}
