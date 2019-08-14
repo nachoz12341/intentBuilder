@@ -1,0 +1,2 @@
+const intentbuilder = require('.');
+intentbuilder();
